@@ -13,7 +13,7 @@ from services.messages import *
 from services.create_message import *
 from services.show_activity import *
 
-#inital change 
+#inital change 2
 
 app = Flask(__name__)
 frontend = os.getenv('FRONTEND_URL')
